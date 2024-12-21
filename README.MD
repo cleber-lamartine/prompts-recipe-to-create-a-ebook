@@ -40,8 +40,10 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Título criado pelo autor    |                                                        |
+| conteúdo | Ajude a escrever um ebook  com oito capítulos sobre um detetive particular paraense que investiga o sumiço do pato, de cor branca, que seria o almoço do círio de nazaré daquele ano. 
+a conclusão da aventura é que o pato, um tanto inteligente para uma ave, aprendeu a voar, pulou em um balde de tinta preta, e seguiu o detetive durante toda a investigação disfarçado como um urubu.
+o genero envolve humor, investigação e mistério |
 
 
 Midjourney：
