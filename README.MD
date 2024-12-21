@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src=".capa so te olho.png"
+    src="assets/capa so te olho.png"
     width="400"  
 />
 </p>
