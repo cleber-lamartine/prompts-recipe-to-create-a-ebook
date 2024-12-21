@@ -71,7 +71,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/155782732?s=400&u=a595525649d8e4e9c9242ca16a03d3c7da6d23b8&v=4"
     />
     <p>&nbsp&nbsp&nbspCleber Lamartine<br>
     &nbsp&nbsp&nbsp
