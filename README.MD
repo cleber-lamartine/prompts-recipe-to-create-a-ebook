@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo AI](https://app.leonardo.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -44,11 +44,11 @@ ChatGPT：
 | conteúdo | Ajude a escrever um ebook  com oito capítulos sobre um detetive particular paraense que investiga o sumiço do pato, de cor branca, que seria o almoço do círio de nazaré daquele ano. a conclusão da aventura é que o pato, um tanto inteligente para uma ave, aprendeu a voar, pulou em um balde de tinta preta, e seguiu o detetive durante toda a investigação disfarçado como um urubu. o genero envolve humor, investigação e mistério |
 
 
-Midjourney：
+Leonardo AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | a private detective with a fair market in the background, a vulture perched on a pole looking at the detective, in comic book stile |
 
 ## ✨ Features
 
