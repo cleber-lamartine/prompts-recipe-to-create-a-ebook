@@ -41,9 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Título criado pelo autor    |                                                        |
-| conteúdo | Ajude a escrever um ebook  com oito capítulos sobre um detetive particular paraense que investiga o sumiço do pato, de cor branca, que seria o almoço do círio de nazaré daquele ano. 
-a conclusão da aventura é que o pato, um tanto inteligente para uma ave, aprendeu a voar, pulou em um balde de tinta preta, e seguiu o detetive durante toda a investigação disfarçado como um urubu.
-o genero envolve humor, investigação e mistério |
+| conteúdo | Ajude a escrever um ebook  com oito capítulos sobre um detetive particular paraense que investiga o sumiço do pato, de cor branca, que seria o almoço do círio de nazaré daquele ano. a conclusão da aventura é que o pato, um tanto inteligente para uma ave, aprendeu a voar, pulou em um balde de tinta preta, e seguiu o detetive durante toda a investigação disfarçado como um urubu. o genero envolve humor, investigação e mistério |
 
 
 Midjourney：
