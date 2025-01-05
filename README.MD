@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/cleber-lamartine/prompts-recipe-to-create-a-ebook/blob/main/output/So%20te%20olho.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/cleber-lamartine/prompts-recipe-to-create-a-ebook/blob/main/output/So_te_olho.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
